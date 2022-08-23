@@ -439,29 +439,31 @@ button:hover {
     height:100%;
   }
   .text-input{
-    top:8rem;
+    top:10.3rem;
     left:7.1rem;
     word-wrap: break-word;
+    width: 45rem;
+    height: 31.6rem;
     } 
   .logo{
     left:1rem;
     width:8%;
   }
   .botones-div{
-    top:34.5rem;
-    left:5rem;
+    top:43rem;
+    left:3.5rem;
   }
   .form-group{
-    left:7.3rem;
-    top:32rem;
+    left:5.3rem;
+    top:40.5rem;
   }
   .btn-criptografar,.btn-descriptografar{
     font-size:24px;
     height:65px;
   }
   .message-box{
-    top: 1.5rem;
-    height:38rem;
+    top: 10.5rem;
+    height:44rem;
     left:56rem;
   }
   .message-box-div{
@@ -485,12 +487,13 @@ button:hover {
   }
   
   } 
-  @media only screen and (min-width: 481px) and (max-width: 1023px){ 
+  @media only screen and (min-width: 481px) and (max-width: 1323px){ 
     main{
       height:100%;
     }
     .text-input{
       width:34rem;
+      height: 20rem;
       top:10rem;
       left:5.1rem;
       } 
@@ -508,18 +511,19 @@ button:hover {
       top:30rem;
     }
     .btn-criptografar,.btn-descriptografar{
-      width: 280px;
+      width: 270px;
       font-size:24px;
       height:65px;
       margin: 0.5rem;
     }
     .message-box{
       
-      width:36rem;
+      width:34rem;
+      height: 20rem;
       left:4.3rem;
-      top:40rem;
+      top:44rem;
       padding:0;
-      height:100%
+      
   
     }
     .message-box-div{
@@ -539,8 +543,9 @@ button:hover {
       display: none;
     }
     .btn-copiar{
+      margin: auto;
       top:24rem;
-      width:32rem;
+      width:31rem;
       height:65px;
       font-size:24px;
     }
