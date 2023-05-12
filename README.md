@@ -1,5 +1,6 @@
 # ONE - Decodificador de texto
 
+Desenvolvido de forma individual, o projeto Decodificador de texto foi um dos desafios propostos durante o programa ONE da Oracle.
 Com este aplicativo, é possível criptografar e descriptografar mensagens digitadas pelo usuário. O projeto foi desenvolvido de forma simples, utilizando apenas HTML, CSS e JavaScript, tornando-o acessível e fácil de usar. A interface amigável e intuitiva permite que o usuário proteja suas mensagens confidenciais com facilidade.
 
 ## 🚀 Demonstração
